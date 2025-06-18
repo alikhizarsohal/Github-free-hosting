@@ -1,0 +1,6 @@
+title: My Simple Blog
+description: A simple blog hosted on GitHub Pages.
+author: Ali Khizar Sohal
+baseurl: "/Github-free-hosting" # the subpath of your site, e.g. /blog
+url: "https://alikhizarsohal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima 
