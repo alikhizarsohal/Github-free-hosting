@@ -9,7 +9,7 @@ categories: [GitHub, Hosting, Web Development]
 
 GitHub Pages is a free hosting service provided by GitHub that allows you to publish websites directly from your GitHub repositories. It's an excellent way for developers, students, and small businesses to host personal portfolios, project documentation, or simple blogs without incurring any costs.
 
-![GitHub Pages Overview](https://via.placeholder.com/800x400?text=GitHub+Pages+Overview){:width="800" height="400"}
+![GitHub Pages Overview](/assets/images/github-pages-overview.jpg){:width="800" height="400"}
 *Image: An illustration showing how GitHub Pages works, from repository to live site.*
 
 ## How It Works

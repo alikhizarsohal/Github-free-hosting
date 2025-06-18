@@ -9,7 +9,7 @@ categories: [GitLab, DevOps, Version Control, CI/CD]
 
 GitLab is a comprehensive DevOps platform that provides a single application for the entire software development lifecycle. While often compared to GitHub, GitLab offers a broader suite of integrated tools for planning, developing, securing, and operating software.
 
-![GitLab Interface](https://via.placeholder.com/800x400?text=GitLab+Interface){:width="800" height="400"}
+![GitLab Interface](/assets/images/gitlab-interface.jpg){:width="800" height="400"}
 *Image: A screenshot showing the GitLab user interface, highlighting its various features.*
 
 ## Key Features of GitLab

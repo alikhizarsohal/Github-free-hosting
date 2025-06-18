@@ -9,7 +9,7 @@ categories: [GitHub, Git, Version Control, Tutorial]
 
 Git is a powerful open-source distributed version control system that allows developers to track changes in their codebase, collaborate seamlessly, and revert to previous versions if needed. GitHub is a web-based platform that provides hosting for Git repositories, enabling collaborative development and project management.
 
-![Git and GitHub Ecosystem](https://via.placeholder.com/800x400?text=Git+and+GitHub+Ecosystem){:width="800" height="400"}
+![Git and GitHub Ecosystem](/assets/images/git-github-ecosystem.jpg){:width="800" height="400"}
 *Image: A diagram illustrating the relationship between local Git repositories and remote GitHub repositories.*
 
 ## Part 1: Git Basics (Beginner)
@@ -73,7 +73,7 @@ git branch -M main
 git push -u origin main
 ```
 
-![Connecting Repositories](https://via.placeholder.com/800x400?text=Connecting+Local+and+Remote+Repositories){:width="800" height="400"}
+![Connecting Repositories](/assets/images/connecting-repositories.jpg){:width="800" height="400"}
 *Image: An illustration demonstrating the command-line steps to link a local repository to a remote GitHub repository.*
 
 ### 2.4 Cloning a Repository
@@ -112,7 +112,7 @@ git merge new-feature
 
 If there are conflicting changes in the same lines of code, Git will prompt a merge conflict. You'll need to manually resolve these conflicts in your files.
 
-![Merge Conflict Resolution](https://via.placeholder.com/800x400?text=Merge+Conflict+Resolution){:width="800" height="400"}
+![Merge Conflict Resolution](/assets/images/merge-conflict-resolution.jpg){:width="800" height="400"}
 *Image: A screenshot or diagram showing a typical merge conflict scenario in a code editor.*
 
 ## Part 4: Collaboration and Advanced GitHub Features (Advanced)
@@ -133,7 +133,7 @@ GitHub Issues are used to track bugs, enhancements, and tasks. You can assign is
 
 GitHub Actions allow you to automate workflows directly in your repository. This includes continuous integration (CI) to build and test your code, and continuous deployment (CD) to deploy your application.
 
-![GitHub Actions Workflow](https://via.placeholder.com/800x400?text=GitHub+Actions+Workflow){:width="800" height="400"}
+![GitHub Actions Workflow](/assets/images/github-actions-workflow.jpg){:width="800" height="400"}
 *Image: A flowchart or screenshot of a simple GitHub Actions workflow.*
 
 ### 4.5 GitHub Pages (Revisited)
